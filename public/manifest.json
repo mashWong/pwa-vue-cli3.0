@@ -1,0 +1,24 @@
+{
+  "name": "vuePWA",
+  "short_name": "vuePWA",
+  "start_url": ".",
+  "display": "fullscreen",
+  "background_color": "#31B3EF",
+  "description": "A simply readable Hacker News app.",
+  "icons": [
+    {
+      "src": "/color.jpg",
+      "sizes": "72x72",
+      "type": "image/jpg"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web"
+    },
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=cheeaun.hackerweb"
+    }
+  ]
+}
